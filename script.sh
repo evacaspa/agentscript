@@ -1,5 +1,5 @@
 #! /bin/bash
-
+# Test
 if 
 	[ ${UID} -ne 0 ] 
 then 
