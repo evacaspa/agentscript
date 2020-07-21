@@ -4,7 +4,7 @@ grep $1 /etc/passwd
 
 if [ $? -eq 0 ]
 then
-	echo "acct exists"
+	echo "acc exists"
 else
-	echo "acct does not exist"
+	echo "accdoes not exist"
 fi
