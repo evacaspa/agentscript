@@ -1,5 +1,4 @@
 #! /bin/bash
-# Test
 if 
 	[ ${UID} -ne 0 ] 
 then 
@@ -7,6 +6,9 @@ then
 
 fi
 	
+=======
+#Conflict Simulation
+
 lscpu
 cat /etc/*release
 nproc
